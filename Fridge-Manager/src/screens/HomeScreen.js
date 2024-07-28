@@ -6,8 +6,7 @@ const HomeScreen = () => {
 
   return (
     <View>
-      <Text>Home Screen</Text>
-      <Button title='move' onPress={()=>{navigator.navigate("Camera")}} />
+      
     </View>
   );
 };
